@@ -1,0 +1,2 @@
+# Linear_and_quadratic_programming
+Various optimization techniques from scratch
