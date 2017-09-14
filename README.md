@@ -1,3 +1,3 @@
-# Linear_and_quadratic_programming
+# Optimization Methods
 Various optimization techniques from scratch
-1. Liear Programming using the Simplex algorithm
+1. Linear Programming using the Simplex algorithm
