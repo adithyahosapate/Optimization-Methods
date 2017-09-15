@@ -7,3 +7,4 @@ from scipy.optimize import linprog
 res = linprog(c, A_ub=A, b_ub=b, bounds=(x0_bounds, x1_bounds),
                options={"disp": True})
 print(res)
+#linear programming using library
