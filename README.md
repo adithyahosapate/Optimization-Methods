@@ -5,7 +5,7 @@ Various optimization techniques from scratch
 
 2. Quadratic Programming 
 
-3. Gradient descent to optimize loss function of an ANN
+3. Gradient descent for linear regression.
 
 4. Newtons method to 
    1. optimize loss function of an ANN (Second order optimization)
