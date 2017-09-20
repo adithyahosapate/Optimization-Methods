@@ -22,5 +22,6 @@ class LinearProg:
         print (self.tableau)
         def update_tableau(*args,**kwargs):
             #TODO update tableau function
+            #TODO
             pass
         pass
